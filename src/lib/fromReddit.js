@@ -5,7 +5,7 @@ var fromReddit = async function (subredditlocale) {
   let subredditname;
   const subreddits = {
     br: "MemesBrasil",
-    de: "GermanMemes",
+    de: "ich_iel",//GermanMemes
     en: "dankmemes",
     es: "memesesp",
     fr: "FrenchMemes",
